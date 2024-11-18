@@ -16,6 +16,7 @@ import { View, Text, TextInput, ScrollView, FlatList, TouchableOpacity, Activity
 //   </View>
 // );
 
+//test commit
 
 // const App = () => (
 //   <View style={{flex:0.5,justifyContent:'center',alignItems:'center',backgroundColor:'red'}}>
